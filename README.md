@@ -9,3 +9,4 @@ Uses pretrained BLIP model from Hugging Face Transformers.
 Simple and easy-to-use Python script.
 
 Supports RGB image inputs.
+![image](https://github.com/user-attachments/assets/1cff3360-cfd2-4579-b0ac-ebda7e002508)
